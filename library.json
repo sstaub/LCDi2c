@@ -1,0 +1,13 @@
+{
+  "name": "LCD I2C",
+  "keywords": "Arduino, LCD, LCD I2C, LiquidCrystal, HD44780, TextLCD",
+  "description": "An Arduino library for text LCDs with HD44780 using an I2C expander.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/sstaub/LCDi2c"
+  },
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
