@@ -1,7 +1,7 @@
 # Arduino LCD I2C library for HD47780
 
 This library is for the HD47780 LCDs with I2C interface for use with Arduino.
-The most difference to the original LiquidCrystal library from Arduino is that this library supports *printf()* functionality.
+The most difference to the original LiquidCrystal library from Arduino is a new API and this library supports *printf()* functionality.
 When using PlatformIO, to support *float* you must add following line in platformio.ini
 ```
 #build_flags = -Wl,-u,vfprintf -lprintf_flt -lm
