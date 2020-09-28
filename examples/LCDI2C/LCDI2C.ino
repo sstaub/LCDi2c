@@ -4,13 +4,6 @@
 #define LCD_CHARS   16
 #define LCD_LINES   2
 
-#define LCD_RS      2
-#define LCD_ENABLE  3
-#define LCD_D4      4
-#define LCD_D5      5
-#define LCD_D6      6
-#define LCD_D7      7
-
 // special chars
 uint8_t upArrow[8] = {  
 	0b00100,
